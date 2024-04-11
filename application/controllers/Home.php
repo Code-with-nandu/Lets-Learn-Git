@@ -15,6 +15,7 @@ class Home  extends CI_Controller
     {
         //echo " Welcome to Gurudev worlds !";
        $this->load->view('admin_login');
+		 $this->load->view('admin_login');
       
     }
 }
